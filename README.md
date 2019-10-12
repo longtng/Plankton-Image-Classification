@@ -3,7 +3,7 @@ The laboratory from Algorithmic Machine Learning Course at EURECOM
 
 This repository included the Music Recommendation System Laboratory from the Algorithmic Machine Learning Course at EURECOM, which was conducted in a group with DANG Ngoc-Vien (Ngoc-Vien.Dang@eurecom.fr).
 
-Furthermore, the Algorithmic Machine Learning Course was offered by Prof. Pietro Michiardi at EURECOM. The details of the course can be retrieved in here https://github.com/DistributedSystemsGroup/Algorithmic-Machine-Learning
+Furthermore, the Algorithmic Machine Learning Course was offered by Prof. Pietro Michiardi (http://www.eurecom.fr/~michiard/) at EURECOM. The details of the course can be retrieved in here https://github.com/DistributedSystemsGroup/Algorithmic-Machine-Learning
 
 ## Course Description
 The goal of this course is mainly to offer data science projects to students to gain hands-on experience. It nicely merges the theoretical concepts students can learn in our courses on machine learning and statistical inference, and systems concepts we teach in distributed systems.
